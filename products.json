@@ -1,7 +1,18 @@
 {
   "shopName": "7VN’s  First Choice Finds",
-  "generatedAt": "2026-07-21T06:46:50.570Z",
+  "generatedAt": "2026-07-21T19:51:38.456Z",
   "products": [
+    {
+      "id": "pack-1784398501504-nctabro",
+      "title": "USKEYVISION Upgraded Vlogging Kit",
+      "shopTitle": "USKEYVISION Upgraded Vlogging Kit",
+      "description": "A standardized EverCore Mini Shop listing using the product image, title, description, and affiliate Shop button.",
+      "shopDescription": "A standardized EverCore Mini Shop listing using the product image, title, description, and affiliate Shop button.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71EnUQKdvnL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "retailer": "Amazon",
+      "shopUrl": "https://www.amazon.com/dp/B0DL9FKBRS/ref=cm_sw_r_as_gl_api_gl_i_R3XK15GAG7HHN6FCGZ0M?linkCode=ml1&tag=7vn0c-20&linkId=781b1726b2db1db6f9b48e48d7a483ec",
+      "badge": "Creator Pick"
+    },
     {
       "id": "pack-1784615976128-9tk0t63",
       "title": "FASTPRO 232-Piece Home Tool Set",
