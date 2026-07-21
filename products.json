@@ -1,6 +1,6 @@
 {
   "shopName": "7VN’s  First Choice Finds",
-  "generatedAt": "2026-07-21T22:30:05.786Z",
+  "generatedAt": "2026-07-21T22:41:15.297Z",
   "products": [
     {
       "id": "pack-1784672199530-pzant3y",
@@ -12,39 +12,6 @@
       "retailer": "Amazon",
       "shopUrl": "https://www.amazon.com/dp/B0DR2JCHKV/ref=cm_sw_r_as_gl_api_gl_i_3CH8AXK5D3FNJMNMHQTY?linkCode=ml1&tag=7vn0c-20&linkId=ccbd893cebcaf45509eeefa39b730b4b",
       "price": "$1,444.00",
-      "badge": "Creator Pick"
-    },
-    {
-      "id": "pack-1784614344181-oqitvf4",
-      "title": "SimpliSafe 12 Piece Wireless Home Security System",
-      "shopTitle": "SimpliSafe 12 Piece Wireless Home Security System",
-      "description": "A standardized EverCore Mini Shop listing using the product image, title, description, and affiliate Shop button.",
-      "shopDescription": "A standardized EverCore Mini Shop listing using the product image, title, description, and affiliate Shop button.",
-      "imageUrl": "https://m.media-amazon.com/images/I/61QTPt4Od8L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "retailer": "Amazon",
-      "shopUrl": "https://www.amazon.com/dp/B07GXVSMT5/ref=cm_sw_r_as_gl_api_gl_i_EFAWX9WKJFZ2RQZ2PEBQ?linkCode=ml1&tag=7vn0c-20&linkId=531aeabae9eb1804a9bb0af2f231dd9c",
-      "badge": "Creator Pick"
-    },
-    {
-      "id": "pack-1784611546747-fedrssg",
-      "title": "Pro 22\" Commercial Ice Maker Machine 450LBS/24H",
-      "shopTitle": "Pro 22\" Commercial Ice Maker Machine 450LBS/24H",
-      "description": "A standardized EverCore Mini Shop listing using the product image, title, description, and affiliate Shop button.",
-      "shopDescription": "A standardized EverCore Mini Shop listing using the product image, title, description, and affiliate Shop button.",
-      "imageUrl": "https://m.media-amazon.com/images/I/415XZo6WzSL._SX342_SY445_QL70_ML2_.jpg",
-      "retailer": "Amazon",
-      "shopUrl": "https://www.amazon.com/dp/B0H2TT1VGG/ref=cm_sw_r_as_gl_api_gl_i_KZ6DWSJE19KTW3GBQFVX?linkCode=ml1&tag=7vn0c-20&linkId=2c41d97ce486ca5950da47ff085dd6f8",
-      "badge": "Creator Pick"
-    },
-    {
-      "id": "pack-1784399631695-ig89pyd",
-      "title": "USKEYVISION Upgraded Vlogging Kit",
-      "shopTitle": "USKEYVISION Upgraded Vlogging Kit",
-      "description": "A standardized EverCore Mini Shop listing using the product image, title, description, and affiliate Shop button.",
-      "shopDescription": "A standardized EverCore Mini Shop listing using the product image, title, description, and affiliate Shop button.",
-      "imageUrl": "https://m.media-amazon.com/images/I/71EnUQKdvnL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "retailer": "Amazon",
-      "shopUrl": "https://amzn.to/4pxF5F4",
       "badge": "Creator Pick"
     }
   ]
