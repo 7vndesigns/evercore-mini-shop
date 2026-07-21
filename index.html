@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+  />
+
+  <meta
+    name="description"
+    content="Quality finds. Simple shopping."
+  />
+
+  <meta
+    name="theme-color"
+    content="#101114"
+  />
+
+  <title>7VN’s  First Choice Finds | EverCore</title>
+
+  <link
+    rel="stylesheet"
+    href="./styles.css"
+  />
+</head>
+
+<body>
+  <main class="page-shell">
+    <header class="shop-header">
+      <div class="logo">E</div>
+
+      <p class="eyebrow">
+        EVERCORE MINI SHOP
+      </p>
+
+      <h1>7VN’s  First Choice Finds</h1>
+
+      <p class="shop-description">
+        Quality finds. Simple shopping.
+      </p>
+    </header>
+
+    <section class="collection-heading">
+      <div>
+        <p class="eyebrow">
+          CURATED COLLECTION
+        </p>
+
+        <h2>Products</h2>
+      </div>
+
+      <span class="product-count">
+        0
+      </span>
+    </section>
+
+    <section class="product-grid">
+      
+      <section class="empty-state">
+        <div class="empty-icon">＋</div>
+        <p class="eyebrow">CURATED COLLECTION</p>
+        <h2>Products are coming soon</h2>
+        <p>
+          This creator is preparing their first
+          collection of recommended products.
+        </p>
+      </section>
+    
+    </section>
+
+    <aside class="disclosure">
+      <span class="information-icon">i</span>
+
+      <p>Built with EverCore. Every product was personally selected by the creator, and every Shop button uses their affiliate link to help support future content and recommendations.</p>
+    </aside>
+
+    <footer>Powered by EverCore • © 2026 7vn Designs LLC</footer>
+  </main>
+
+  <script>
+    window.EVERCORE_PRODUCTS =
+      [];
+
+    document
+      .querySelectorAll('[data-product-title]')
+      .forEach(function (link) {
+        link.addEventListener(
+          'click',
+          function () {
+            console.info(
+              'EverCore product opened:',
+              link.getAttribute(
+                'data-product-title'
+              )
+            );
+          }
+        );
+      });
+  </script>
+</body>
+</html>
