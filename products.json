@@ -1,7 +1,19 @@
 {
   "shopName": "7VN’s  First Choice Finds",
-  "generatedAt": "2026-07-22T00:52:55.500Z",
+  "generatedAt": "2026-07-22T06:37:24.679Z",
   "products": [
+    {
+      "id": "pack-1784702198525-1clnhm3",
+      "title": "Sony HTA9M2 BRAVIA Theater Quad",
+      "shopTitle": "Sony HTA9M2 BRAVIA Theater Quad",
+      "description": "A standardized EverCore Mini Shop listing using the product image, title, description, and affiliate Shop button.",
+      "shopDescription": "A standardized EverCore Mini Shop listing using the product image, title, description, and affiliate Shop button.",
+      "imageUrl": "https://m.media-amazon.com/images/I/51+co5rg5EL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "retailer": "Amazon",
+      "shopUrl": "https://www.amazon.com/dp/B0D54WWK67/ref=cm_sw_r_as_gl_api_gl_i_KHEJW9JGNBXNZMCWS0J5?linkCode=ml1&tag=7vn0c-20&linkId=0c28e0a4f96b451a311619c808a3350f",
+      "price": "$2,698.00",
+      "badge": "Creator Pick"
+    },
     {
       "id": "pack-1784675491899-bcce17o",
       "title": "IRIS USA WOOZOO Air Circulator Fan",
